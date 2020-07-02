@@ -5,4 +5,4 @@ We propose a computer-aided diagnosis (CAD) system for the classification of mam
 
 1. From morphological and texture features, the categorical attributes of the BI-RADS lexicon for masses are predicted: shape (round, oval, lobular, and irregular), margin (not spiculated and spiculated), and density (fatty, glandular, dense).
 
-2. These categorical outcomes are used as features to predict the likelihood of malignancy of the tumor. 
+2. The categorical BI-RADS lexicon outcomes are used as features to predict the likelihood of malignancy of the tumor. 
