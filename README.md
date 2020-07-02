@@ -7,4 +7,8 @@ We propose a computer-aided diagnosis (CAD) system for the classification of mam
 
 2. The categorical BI-RADS lexicon outcomes are used as features to predict the likelihood of malignancy of the tumor. 
 
+Any use of our codes and data  please cite:
+
+J. Hernandez-Lopez and W. Gomez-Flores, "A comprehensive computer-aided diagnosis system based on the BI-RADS lexicon for mammographic masses", IEEE Acces, in press, 2020.
+
 ![picture alt](https://github.com/wgomezf/CAD-birads/blob/master/cad.png "CAD")
